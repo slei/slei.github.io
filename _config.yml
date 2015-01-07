@@ -8,6 +8,7 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
+<<<<<<< Updated upstream
 title : Jekyll Bootstrap
 tagline: Site Tagline
 author :
@@ -16,6 +17,16 @@ author :
   github : username
   twitter : username
   feedburner : feedname
+=======
+title : Slei Blog
+tagline: Site Tagline
+author :
+  name : Lei Songsong
+  email : lss.linux@gmail.com
+  github : slei
+#  twitter : username
+#  feedburner : feedname
+>>>>>>> Stashed changes
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +36,11 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
+<<<<<<< Updated upstream
 production_url : http://username.github.io
+=======
+production_url : http://slei.github.io
+>>>>>>> Stashed changes
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,7 +97,11 @@ JB :
   comments :
     provider : disqus
     disqus :
+<<<<<<< Updated upstream
       short_name : jekyllbootstrap
+=======
+      short_name : slei
+>>>>>>> Stashed changes
     livefyre :
       site_id : 123
     intensedebate :
